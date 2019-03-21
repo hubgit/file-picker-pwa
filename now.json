@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "name": "file-picker-pwa",
+  "routes": [
+    { "src": "/sw.js", "headers": { "cache-control": "max-age=0" } }
+  ]
+}
